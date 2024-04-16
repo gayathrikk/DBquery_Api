@@ -27,7 +27,8 @@ public class DBquery_api {
 
 	    if (statusCode == 200) {
 	        System.out.println("API request to Database query passed. Status code: " + statusCode);
-	        // Extract and print query result
+	        String query="human fetus brain age greater than 20 weeks";
+	        System.out.println("Query : "+query);
 	        System.out.println("Query Result:");
 	        System.out.println(response.getBody().asString());
 	    } else {
