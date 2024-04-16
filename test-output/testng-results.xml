@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-15T18:01:56 IST" name="Default suite" finished-at="2024-04-15T18:01:57 IST" duration-ms="1172">
+  <suite started-at="2024-04-16T09:49:50 IST" name="Default suite" finished-at="2024-04-16T09:49:53 IST" duration-ms="2418">
     <groups>
     </groups>
-    <test started-at="2024-04-15T18:01:56 IST" name="Default test" finished-at="2024-04-15T18:01:57 IST" duration-ms="1172">
-      <class name="com.apollo2.apollo2_Homepage.MoreInfo">
-        <test-method signature="dgx_Request()[pri:1, instance:com.apollo2.apollo2_Homepage.MoreInfo@6da21078]" started-at="2024-04-15T18:01:56 IST" name="dgx_Request" finished-at="2024-04-15T18:01:57 IST" duration-ms="936" status="PASS">
+    <test started-at="2024-04-16T09:49:50 IST" name="Default test" finished-at="2024-04-16T09:49:53 IST" duration-ms="2418">
+      <class name="com.apollo2.apollo2_Homepage.DBquery_api">
+        <test-method signature="Dbquery()[pri:1, instance:com.apollo2.apollo2_Homepage.DBquery_api@f736069]" started-at="2024-04-16T09:49:51 IST" name="Dbquery" finished-at="2024-04-16T09:49:53 IST" duration-ms="2397" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dgx_Request -->
-        <test-method signature="apollo2_Request()[pri:2, instance:com.apollo2.apollo2_Homepage.MoreInfo@6da21078]" started-at="2024-04-15T18:01:57 IST" name="apollo2_Request" finished-at="2024-04-15T18:01:57 IST" duration-ms="216" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- apollo2_Request -->
-      </class> <!-- com.apollo2.apollo2_Homepage.MoreInfo -->
+        </test-method> <!-- Dbquery -->
+      </class> <!-- com.apollo2.apollo2_Homepage.DBquery_api -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

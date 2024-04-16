@@ -69,7 +69,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.apollo2.apollo2_Homepage.MoreInfo</test>
+            <test>com.apollo2.apollo2_Homepage.DBquery_api</test>
           </configuration>
         </plugin>
       </plugins>
